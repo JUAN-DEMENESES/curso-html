@@ -1,0 +1,17 @@
+<table border="1">
+    <tr>
+        <td>Nome</td>
+        <td>Idade</td>
+        <td>Profissão</td>
+    </tr>
+    <tr>
+        <td>JUAN</td>
+        <td>19</td>
+        <td>BARBEIRO</td>
+    </tr>
+    <tr>
+        <td>KAUÃ</td>
+        <td>16</td>
+        <td>Estudante</td>
+    </tr>
+</table>
